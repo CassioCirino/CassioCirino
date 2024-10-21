@@ -1,7 +1,7 @@
 ### Olá eu sou o Cassio👋
 
 - 📌Graduado em Gestão de Tecnologia da Informação
-- 📌Pós-Graduado em Engenharia de Software
+- 📌Pós-Graduado Gestão de Projestos de TI e Comunicação e Oratória
 - 📌HTML | CSS | JAVASCRIPT | PYTHON🐍
  
  <div align="center">
