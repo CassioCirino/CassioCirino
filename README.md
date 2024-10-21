@@ -2,7 +2,8 @@
 
 - 📌Graduado em Gestão de Tecnologia da Informação
 - 📌Pós-Graduado Gestão de Projetos de TI e Comunicação e Oratória
-- 📌HTML | CSS | JAVASCRIPT | PYTHON🐍
+- 📌HTML | CSS | JAVASCRIPT | PYTHON🐍 | BASH
+- 📌AUTOMAÇÃO | MONITORAMENTO | OBSERVABILIDADE | AIOPS
  
  <div align="center">
   <a href="https://github.com/CassioCirino">
